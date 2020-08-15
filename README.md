@@ -1,4 +1,4 @@
 # coursera_lab
-intro to github lab
-I am editing the README file. Adding some more details about the project description.
 
+
+This is a github tutorial and its ok so far 
